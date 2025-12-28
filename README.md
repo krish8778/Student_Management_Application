@@ -75,9 +75,8 @@ DATABASE CONFIGURATION
 application.properties
 
 spring.datasource.url=jdbc:mysql://localhost:3306/student_db
-spring.datasource.username=root
+spring.datasource.username=your_username
 spring.datasource.password=your_password
-
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 spring.jpa.database-platform=org.hibernate.dialect.MySQLDialect
@@ -116,16 +115,6 @@ KEY LEARNINGS
 
 ------------------------------------------------------------
 
-FUTURE IMPROVEMENTS
-
-- Use DTOs instead of entities
-- Add input validation
-- Implement global exception handling
-- Add pagination and sorting
-- Add authentication and authorization
-
-------------------------------------------------------------
-
 AUTHOR
 
--Developed with ❤️ by [Muthu Krishnan B](https://github.com/krish8778)
+Developed with ❤️ by [Muthu Krishnan B](https://github.com/krish8778)
