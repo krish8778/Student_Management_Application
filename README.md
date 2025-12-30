@@ -77,9 +77,10 @@ http://localhost:8080/swagger-ui/index.html
 
 1. Clone the repository
 2. Open in IntelliJ / Eclipse
-3. Create database student_db in MySQL 
-4. Run StudentManagementApplication
-5. Test APIs using Swagger or Postman
+3. Create database student_db in MySQL
+4. Update the 'application.properties' file
+5. Run StudentManagementApplication
+6. Test APIs using Swagger or Postman
 
 ---
 
